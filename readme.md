@@ -44,8 +44,9 @@ you only enter 9 values in each row.
 
 Example: If this is the first row of the sudoku, where x marks the empty cells
 
-+------------+--------------+------------+
-|2 | 3  | x  | x  | x  | x  | x | x |  7 | 
+
+![image](https://user-images.githubusercontent.com/37117865/181800668-aa1621e7-ce0e-4a71-ad9f-bd6cc45c6bb2.png)
+
 
 
 Input the row as : 230000007
