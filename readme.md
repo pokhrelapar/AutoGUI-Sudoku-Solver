@@ -44,9 +44,10 @@ https://user-images.githubusercontent.com/37117865/181810012-ac1e26bb-7577-4d55-
 
 ## How to run
 
-Clone the repository. Install necessary dependencies. Follow the user prompt displayed. Input each of the rows (1-9) of the sudoku without any special 
-characters or spaces between two values. If a gird is empty, enter the value as 0. Always enter the value starting form the first row. Enusre that 
-you only enter 9 values in each row.
+Clone the repository. Install necessary dependencies. Run the following command : python sudokuSolver.py
+
+Follow the user prompt displayed. Input each of the rows (1-9) of the sudoku without any special characters or spaces between two values.
+If a gird is empty, enter the value as 0. Always enter the value starting form the first row. Enusre that you only enter 9 values in each row.
 
 Example: If this is the first row of the sudoku, where x marks the empty cells
 
