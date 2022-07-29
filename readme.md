@@ -36,6 +36,12 @@ and complete the grid. Don’t forget, a move is incorrect if:
 
 ## Sample Run
 
+
+https://user-images.githubusercontent.com/37117865/181810012-ac1e26bb-7577-4d55-8500-3d6da97521bf.mp4
+
+
+
+
 ## How to run
 
 Clone the repository. Install necessary dependencies. Follow the user prompt displayed. Input each of the rows (1-9) of the sudoku without any special 
