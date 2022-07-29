@@ -1,4 +1,4 @@
-# Pokédex
+# Sudoku Solver
 
 ## Introduction
 
