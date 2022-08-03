@@ -77,11 +77,13 @@ The program does not support solving for physical sudoku copies or digital copie
 ## Future Work
 
 -Automate fillup on images wihtout with key trigger events
+
 -Autofill missing values using grid detection and OpenCV
 
 
 ## References
 https://pyautogui.readthedocs.io/en/latest/
+
 https://sudoku.com/
 
 
